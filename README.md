@@ -1,6 +1,6 @@
 # Nexus Inventory System
 
-Nexus Inventory System is a professional full stack inventory management project built as a portfolio-ready learning path.
+Nexus Inventory System is a professional full stack inventory management.
 
 It uses Django REST Framework for the API, PostgreSQL for persistence, JWT for authentication, and React with TypeScript for the dashboard.
 
@@ -154,14 +154,6 @@ When the backend is running, open:
 http://localhost:8000/api/docs
 ```
 
-## Next Development Tasks
-
-- Add frontend forms for products, categories, suppliers and movements.
-- Add refresh-token flow in Axios.
-- Add tests for stock movements and permissions.
-- Add Excel and PDF reports.
-- Add warehouse support for transfer movements.
-- Add CI pipeline for linting and tests.
 
 ## License
 

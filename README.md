@@ -118,23 +118,6 @@ npm run dev
 - Responsive SaaS-style frontend foundation.
 - Docker Compose environment for local development.
 
-## Learning Roadmap
-
-This project is intentionally divided into phases:
-
-1. Planning, architecture and data model.
-2. Project setup and repository hygiene.
-3. Backend domain models and API.
-4. Authentication, roles and permissions.
-5. Frontend dashboard and reusable components.
-6. Frontend/backend integration.
-7. Reports and exports.
-8. Docker and production readiness.
-9. Deployment.
-10. Professional README and GitHub polish.
-
-See `docs/roadmap.md` and `docs/lessons/phase-01.md`.
-
 ## Git Workflow
 
 Recommended first commands:
